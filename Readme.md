@@ -1,6 +1,6 @@
 # Hi I'm Mr Axenzo &nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/Viz-Zer/Viz-Zer/main/Assets/Hi.gif" width="48px"></a>
 
-![My card name](https://cardivo.vercel.app/api?name=MrAxenzo&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_a_n_i_r_u_d_h_&github=MrAxenzo&twitter=&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=MrAxenzo&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://avatars.githubusercontent.com/u/78668573?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_axe_mortal_ff_yt&github=MrAxenzo&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
 
 - 👨‍💻 All of my projects are available at
