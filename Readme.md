@@ -13,9 +13,7 @@
 
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrAxenzo&show_icons=true&theme=nightowl" alt="Axenzo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAxenzo&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="Axenzo"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrAxenzo&show_icons=true&theme=nightowl" alt="Axenzo" /></p> 
 
 ##
 
